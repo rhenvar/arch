@@ -1,0 +1,292 @@
+Rxvt*foreground: white
+Rxvt*background: #292C31
+Rxvt*transparent: False
+Rxvt*scrollBar: False
+Rxvt*cursorBlink: True
+Rxvt*boldMode: False
+Rxvt*font: xft:terminus:pixelsize=8
+
+!URxvt.perl-ext-common:  default,tabbed
+!URxvt.tabbed.tabbar-fg: 5
+!URxvt.tabbed.tabbar-bg: -1 
+!URxvt.tabbed.tab-fg:    7
+!URxvt.tabbed.tab-bg:    -1
+
+
+
+
+
+
+!Rxvt.color12 : #748A96
+! magenta
+!Rxvt.color5  : #9C4D6B
+!Rxvt.color13 : #F7CBD6
+! cyan
+!Rxvt.color6  : #427D7B
+!Rxvt.color14 : #639A94
+! white
+!Rxvt.color7  : #FFFFFF
+!Rxvt.color15 : #FFFFFF
+
+! Black + DarkGrey
+!Rxvt.color0: #292C31
+!Rxvt.color8: #222222
+!! DarkRed + Red
+!Rxvt.color1: #434343
+!Rxvt.color9: #434343
+! ! DarkGreen + Green
+!Rxvt.color2: #6B6B6B
+!Rxvt.color10: #A5A5A5
+! !! DarkYellow + Yellow
+!Rxvt.color3: #969696
+!Rxvt.color11: #E5E5E5
+! !! DarkBlue + Blue
+!Rxvt.color4: #4A4A4A
+!Rxvt.color12: #4D4D4D
+! !! DarkMangenta + Mangenta
+!Rxvt.color5: #707070
+!Rxvt.color13: #747474
+! !!DarkCyan + Cyan
+!Rxvt.color6: #A9A9A9
+!Rxvt.color14: #C4C4C4
+! !! LightGrey + White
+!Rxvt.color7: #FFFFFF
+!Rxvt.color15: #DEDEDE
+
+!bright winter colors
+!Rxvt.color0: #1c1E21
+!Rxvt.color1: #9da6a4
+!Rxvt.color2: #94a8a8
+!Rxvt.color3: #a2a8a3
+!Rxvt.color4: #87979c
+!Rxvt.color5: #808391
+!Rxvt.color6: #799494
+!Rxvt.color7: #c3c7bf
+!Rxvt.color8: #707070
+!Rxvt.color9: #bfc5bf
+!Rxvt.color10: #afc7c7
+!Rxvt.color11: #bbc2bc
+!Rxvt.color12: #a1afb5
+!Rxvt.color13: #adb0c4
+!Rxvt.color14: #a3c7c7
+!Rxvt.color15: #ced1ca
+
+!cloud colors
+!black
+!Rxvt.color0:  #222827
+!Rxvt.color8:  #5D6F74
+!!red
+!Rxvt.color1:  #D5A8E3
+!Rxvt.color9:  #CD749C
+!!green
+!Rxvt.color2:  #9C75DD
+!Rxvt.color10: #63B0B0
+!!yellow
+!Rxvt.color3:  #9898AE
+!Rxvt.color11: #C0C0DD
+!!blue
+!Rxvt.color4:  #654A96
+!Rxvt.color12: #5786BC
+!!magenta
+!Rxvt.color5:  #625566
+!Rxvt.color13: #3F3442
+!!cyan
+!Rxvt.color6:  #A9D1DF
+!Rxvt.color14: #849DA2
+!!white
+!Rxvt.color7:  #E6EBE5
+!Rxvt.color15: #D9D6CF
+
+!Rowdy Purple
+!urxvt*background:           #000000
+!urxvt*foreground:           #666699
+!
+!urxvt*color0:               #333366
+!urxvt*color8:               #333399
+!
+!urxvt*color1:               #6666CC
+!urxvt*color9:               #9999FF
+!
+!urxvt*color2:               #0099CC
+!urxvt*color10:              #00CCFF
+!
+!urxvt*color3:               #3366CC
+!urxvt*color11:              #6699FF
+!
+!urxvt*color4:               #006699
+!urxvt*color12:              #0099CC
+!
+!urxvt*color5:               #0066FF
+!urxvt*color13:              #0099FF
+!
+!urxvt*color6:               #669999
+!urxvt*color14:              #66CCCC
+!
+!urxvt*color7:               #99CCCC
+!urxvt*color15:              #CCFFFF
+
+
+!Black
+!*color0: #121D38
+!*color8: #292929
+
+!Red
+!*color1: #2f4d80
+!*color9: #7791e0
+!
+!!Green
+!*color2: #424242
+!*color10: #828a8c
+!
+!!Yellow
+!*color3: #6b8ba3
+!*color11: #8ebdde
+!
+!!Blue
+!*color4: #3A4F76
+!*color12: #3955c4
+!
+!!Magenta
+!*color5: #5F547E
+!*color13: #927d9e
+!
+!!Cyan
+!*color6: #556c85
+!*color14: #6B73A1
+!
+!!White
+!*color7: #BEBEBE
+!*color15: #ffffff
+
+!Green rainy colors
+!black
+!*color0: #1C1E21
+!*color8: #707070
+!Red
+!*color1: #4E593F
+!*color9: #50593F
+!Green
+!*color2: #2A432F
+!*color10:#38593F
+!yellow
+!*color3: #3C493D
+!*color11:#49594B
+!blue
+!*color4: #37455A
+!*color12:#4F6482
+!Magenta
+!*color5: #5E7572
+!*color13:#6B8581
+!Cyan
+!*color6: #3D4757
+!*color14:#58667D
+!White
+!*color7: #BEBEBE
+!*color15:#ffffff 
+
+
+!!Visiblue
+!urxvt*color0:               #333366
+!urxvt*color8:               #333399
+!!
+!urxvt*color1:               #283D88
+!urxvt*color9:               #2866EA
+!!
+!urxvt*color2:               #055288
+!urxvt*color10:              #056788
+!!
+!urxvt*color3:               #D9D6A1
+!urxvt*color11:              #D9D6A1
+!!
+!urxvt*color4:               #053D88
+!urxvt*color12:              #2A5288
+!
+!urxvt*color5:               #0066FF
+!urxvt*color13:              #0099FF
+!!
+!urxvt*color6:               #2372AA
+!urxvt*color14:              #4187B8
+!!
+!urxvt*color7:               #99CCCC
+!urxvt*color15:              #CCFFFF
+
+! Black
+! *color0:   #303430
+! *color8:   #cdb5cd
+!
+! Red
+! *color1:   #E3AB6E
+! *color9:   #E3B888
+!
+! ! Green
+! *color2:   #97b26b
+! *color10:  #c5f779
+!
+! ! Yellow
+! *color3:   #cdcdc1
+! *color11:  #ffffed
+!
+! ! Blue
+! *color4:   #86a2be
+! *color12:  #98afd9
+!
+! ! Magenta
+! *color5:   #d9b798
+! *color13:  #d7d998
+!
+! ! Cyan
+! *color6:   #a1b5cd
+! *color14:  #a1b5cd
+!
+! ! White
+! *color7:   #bebebe
+! *color15:  #ffffff
+
+!!!! dkeg - citystreets !!!!
+!
+!*background:#000000
+!*foreground:#ffffff
+!
+!*color0:  #2A3B51
+!*color8:  #837C78
+!*color1:  #403E4A
+!*color9:  #89827D
+!*color2:  #3F3D40
+!*color10: #A7A099
+!*color3:  #3B4F54
+!*color11: #C2BEC1
+!*color4:  #423E41
+!*color12: #C3BCB2
+!*color5:  #4E4A4B
+!*color13: #CBC5BA
+!*color6:  #42505A
+!*color14: #E3DDD2
+!*color7:  #837E81
+!*color15: #EFE8DC
+
+
+!Good looking mono
+! Black + DarkGrey
+*color0: #000000
+*color8: #222222
+!! DarkRed + Red
+*color1: #434343
+*color9: #434343
+! DarkGreen + Green
+*color2: #6B6B6B
+*color10: #A5A5A5
+!! DarkYellow + Yellow
+*color3: #969696
+*color11: #E5E5E5
+!! DarkBlue + Blue
+*color4: #4A4A4A
+*color12: #4D4D4D
+!! DarkMangenta + Mangenta
+*color5: #707070
+*color13: #747474
+!!DarkCyan + Cyan
+*color6: #A9A9A9
+*color14: #C4C4C4
+!! LightGrey + White
+*color7: #FFFFFF
+*color15: #DEDEDE

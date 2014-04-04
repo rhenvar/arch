@@ -1,0 +1,1 @@
+sudo wpa_supplicant -B -i wlp5s6 -c /etc/wpa_supplicant/wpa_supplicant.conf -Dwext
